@@ -1,0 +1,34 @@
+table{
+	border: 1px solid #666; 
+	border-collapse: collapse;
+}
+td{
+	padding: 20px; 
+	text-align: center;
+}
+th{
+	font-size: 25px;
+}
+.bold{
+	font-weight: bold; 
+	font-size: 20px;
+}
+
+.box {
+	cursor: pointer;
+}
+
+.full_defense {
+	background-color: black;
+	cursor: default;
+}
+
+.full_attack_fail {
+	background-color: blue;
+	cursor: default;
+}
+
+.full_attack_shot {
+	background-color: red;
+	cursor: default;
+}

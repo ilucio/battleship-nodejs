@@ -1,0 +1,77 @@
+{
+  "defense": [
+    {
+      "id": 1,
+      "value": [
+        "1_6",
+        "2_6",
+        "3_6",
+        "4_6"
+      ]
+    },
+    {
+      "id": 2,
+      "value": [
+        "3_2",
+        "3_3",
+        "3_4"
+      ]
+    },
+    {
+      "id": 3,
+      "value": [
+        "8_1",
+        "8_2",
+        "8_3",
+        "8_4",
+        "8_5"
+      ]
+    }
+  ],
+  "attack": [
+    {
+      "value": "2_5",
+      "result": "fail"
+    },
+    {
+      "value": "3_5",
+      "result": "fail"
+    },
+    {
+      "value": "2_3",
+      "result": "fail"
+    },
+    {
+      "value": "1_3",
+      "result": "fail"
+    },
+    {
+      "value": "1_1",
+      "result": "fail"
+    },
+    {
+      "value": "1_2",
+      "result": "fail"
+    },
+    {
+      "value": "3_2",
+      "result": "shot"
+    },
+    {
+      "value": "4_2",
+      "result": "fail"
+    },
+    {
+      "value": "8_5",
+      "result": "shot"
+    },
+    {
+      "value": "7_9",
+      "result": "fail"
+    },
+    {
+      "value": "5_7",
+      "result": "fail"
+    }
+  ]
+}
